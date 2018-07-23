@@ -6,8 +6,6 @@ class Anagram
 
   def initialize(word)
     @word = word
-    @matches = []
-    @matches << word
   end
   
   def self.match(matches)
