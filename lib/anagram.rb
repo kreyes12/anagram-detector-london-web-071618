@@ -9,7 +9,7 @@ class Anagram
   end
   
   def match(matches_arr)
-    self.new
+    matches_arr.select {|word| word == self.new
 end
   
   
