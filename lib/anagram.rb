@@ -9,6 +9,7 @@ class Anagram
   end
   
   def match(matches_arr)
+    self.new
 end
   
   
