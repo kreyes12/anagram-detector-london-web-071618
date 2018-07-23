@@ -10,7 +10,7 @@ class Anagram
     @matches << word
   end
   
-  def match(matches)
+  def self.match(matches)
   
   
   
