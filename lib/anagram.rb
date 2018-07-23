@@ -8,7 +8,7 @@ class Anagram
     @word = word
   end
   
-  def self.match(matches)
+  def match(matches_arr)
 end
   
   
